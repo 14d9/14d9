@@ -2,7 +2,7 @@
 
 ![Views](https://gpvc.arturio.dev/14d9) 
 
-## &#x1F4BB; Social Media
+## &#x1F4BB; Socials Accounts
 
 Instagram: [@q97l](https://instagram.com/q97l)
 <br>
