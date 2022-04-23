@@ -8,7 +8,7 @@ Instagram: [@q97l](https://instagram.com/q97l)
 <br>
 Discord: PiXeL#1337
 <br>
-Discord Server: [Ali](https://discord.gg/ali)
+Discord Server: [Creative Station](https://discord.gg/crs)
 <br>
 Github: [14d9](https://github.com/14d9)
 <br>
