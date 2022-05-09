@@ -6,7 +6,7 @@
 
 <h1 align="center">&#x1F4BB; Socials Accounts </h1>
 
-Instagram: [@q97l](https://instagram.com/q97l)
+<h1 align="center">Instagram: [@q97l](https://instagram.com/q97l) </h1>
 <br>
 Discord: PiXeL#1337
 <br>
