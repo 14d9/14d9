@@ -3,7 +3,7 @@
 <h1 align="center">&#x1f4c8; GitHub Stats </h1>
 
 <p align="center">
-  <img src="![Views](https://gpvc.arturio.dev/14d9)">
+  <img src="https://gpvc.arturio.dev/14d9">
 </p>
 
 <h1 align="center">&#x1F4BB; Socials Accounts </h1>
