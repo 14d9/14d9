@@ -8,12 +8,12 @@
 
 <h6 align="center">Instagram: @q97l</h6>
 <br>
-Discord: PiXeL#1337
+<h6 align="center">Discord: PiXeL#1337</h6>
 <br>
-Discord Server: [Creative Station](https://discord.gg/crs)
+<h6 align="center">Discord Server: [Creative Station](https://discord.gg/crs)</h6>
 <br>
-Github: [14d9](https://github.com/14d9)
+<h6 align="center">Github: [14d9](https://github.com/14d9)</h6>
 <br>
-Twitter: [@ejju](https://twitter.com/ejju)
+<h6 align="center">Twitter: [@ejju](https://twitter.com/ejju)</h6>
 <br>
-YouTube: [Ali](https://youtube.com/channel/UC63mgG7qoa8K3qnz7Geayvw)
+<h6 align="center">YouTube: [Ali](https://youtube.com/channel/UC63mgG7qoa8K3qnz7Geayvw)</h6>
