@@ -12,8 +12,4 @@
 <br>
 <h6 align="center">Discord Server: [Creative Station](https://discord.gg/crs)</h6>
 <br>
-<h6 align="center">Github: [14d9](https://github.com/14d9)</h6>
-<br>
 <h6 align="center">Twitter: [@ejju](https://twitter.com/ejju)</h6>
-<br>
-<h6 align="center">YouTube: [Ali](https://youtube.com/channel/UC63mgG7qoa8K3qnz7Geayvw)</h6>
