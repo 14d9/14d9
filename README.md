@@ -1,6 +1,6 @@
 <h1 align="center">Hello I'm Ali </h1>
 
-## &#x1f4c8; GitHub Stats
+<h1 align="center"&#x1f4c8; GitHub Stats </h1>
 
 ![Views](https://gpvc.arturio.dev/14d9) 
 
