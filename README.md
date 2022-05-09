@@ -4,7 +4,7 @@
 
 ![Views](https://gpvc.arturio.dev/14d9) 
 
-## &#x1F4BB; Socials Accounts
+<h1 align="center">Socials Accounts </h1>
 
 Instagram: [@q97l](https://instagram.com/q97l)
 <br>
